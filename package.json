@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "lodash-es": "^4.17.21",
-    "preact": "^10.10.0",
+    "preact": "^10.23.1",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
